@@ -5,12 +5,13 @@ Collection of numpy exercise problems
 3) NumPy string recipes(10).
 4) NumPy linear algebra recipes(19)
 5) NumPy fundamental recipes Part 1(20)
-6) NumPy fundamental recipes Part 2(20) 
-....................(Coming soon)
+6) NumPy fundamental recipes Part 2(20)
+
+.................... (Coming soon)
 
 This repo mainly focuses on NumPy newbies having intermediate Python Knowledge. The above problems is collected from certain books and websites (Some of them are made myself)
 
-Any sort of contributions are welcome(Yeah ! we learns by mutual sharing).
+Any sort of contributions are welcome (Yeah ! we learns by mutual sharing).
 
 # Resources For NumPy.
 # Books
