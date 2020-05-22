@@ -9,7 +9,9 @@ Collection of numpy exercise problems
 ....................(Coming soon)
 
 This repo mainly focuses on NumPy newbies having intermediate Python Knowledge. The above problems is collected from certain books and websites (Some of them are made myself)
-Any sort of contribution is 
+
+Any sort of contributions are welcome(Yeah ! we learns by mutual sharing).
+
 # Resources For NumPy.
 # Books
 
@@ -27,13 +29,13 @@ Any sort of contribution is
 
 4)Coffee Break NumPy (Exceptionally good for those who love to learn from puzzles)
 
-Tutorials
+# Tutorials
 
 1) https://youtu.be/QUT1VHiLmmI By freeCodeCamp.org
 
 2) https://www.youtube.com/watch?v=rN0TREj8G7U&list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU (personal favorite ) By codebasics.
  
-Numpy exercises
+# Numpy exercises
 
 1)https://github.com/rougier/numpy-100 a set of classic problems and its solution by Nicolas P. Rougier.
 
