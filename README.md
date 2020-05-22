@@ -11,7 +11,7 @@ Collection of numpy exercise problems
 
 This repo mainly focuses on NumPy newbies having intermediate Python Knowledge. The above problems is collected from certain books and websites (Some of them are made myself)
 
-Any sort of contributions are welcome (Yeah ! we learns by mutual sharing).
+Any sort of contributions are welcome (Yeah ! we learn by mutual sharing).
 
 # Resources For NumPy.
 # Books
