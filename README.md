@@ -2,8 +2,8 @@
 Collection of numpy exercise problems
 1) NumPy random recipes(10).
 2) NumPy sorting and searching recipes(8)
-3) NumPy Mathematics recipes Part 1(20)
-4) NumPy string recipes(10).
+3) NumPy string recipes(10).
+4) NumPy Mathematics recipes Part 1(20)
 5) NumPy linear algebra recipes(19)
 6) NumPy fundamental recipes Part 1(20)
 7) NumPy fundamental recipes Part 2(20)
