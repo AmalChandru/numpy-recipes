@@ -7,6 +7,7 @@ Collection of numpy exercise problems
 5) NumPy linear algebra recipes(19)
 6) NumPy fundamental recipes Part 1(20)
 7) NumPy fundamental recipes Part 2(20)
+8) NumPy recipes from pynative.org (10)
 
 .................... (Coming soon)
 
@@ -41,4 +42,4 @@ Any sort of contributions are welcome (Yeah ! we learn by mutual sharing).
 
 1) https://github.com/rougier/numpy-100 a set of classic problems and its solution by Nicolas P. Rougier.
 2) https://www.machinelearningplus.com/python/101-numpy-exercises-python/ 101 numpy problems for machine learning
-
+3) https://pynative.com/python-numpy-exercise/ (8) NumPy recipes from pynative.org (10))
